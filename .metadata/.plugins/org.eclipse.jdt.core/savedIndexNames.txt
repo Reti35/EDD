@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+J:\DAM 1\Entorno De Desarrollo\EntornoDeDesarrollo\.metadata\.plugins\org.eclipse.jdt.core
+3706545235.index
+448412388.index
+2249398334.index
