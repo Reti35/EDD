@@ -2,18 +2,18 @@ import java.awt.EventQueue;
 
 import javax.swing.JFrame;
 import javax.swing.JButton;
-import java.awt.BorderLayout;
+//import java.awt.BorderLayout;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.SwingConstants;
 import javax.swing.JTextField;
-import javax.swing.JScrollPane;
-import javax.swing.JToggleButton;
+//import javax.swing.JScrollPane;
+//import javax.swing.JToggleButton;
 import javax.swing.JLabel;
-import java.awt.FlowLayout;
+//import java.awt.FlowLayout;
 import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;
-import javax.swing.LayoutStyle.ComponentPlacement;
+//import javax.swing.LayoutStyle.ComponentPlacement;
 
 public class HolaMundoig {
 
